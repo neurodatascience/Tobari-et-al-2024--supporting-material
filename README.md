@@ -22,7 +22,7 @@ They also emphasize the importance of distinguishing neural-driven dFC variation
 **list of HCP subjects included**  
 Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
-This repository provides a list of 395 subject identifiers for the subset of subjects from the S1200 release of the 3T Human Connectome Project (HCP) dataset
+This repository provides [a list of 395 subject identifiers](https://github.com/neurodatascience/Tobari-et-al-2024--supporting-material/blob/da4ec3243a662af319fb3b3bd7b35690f80fdd59/HCP_subj_list.txt) for the subset of subjects from the S1200 release of the 3T Human Connectome Project (HCP) dataset
 used in this study (Smith et al., 2013; Van Essen et al., 2013).
 Additionally, it includes the GitHub repository containing codes for reproducing the results.
 The selected 395 subjects were chosen for their high quality physiological recordings, which facilitates model-based denoising of the fMRI data (Kassinopoulos & Mitsis, 2019),
@@ -30,7 +30,10 @@ which may subsequently lead to a more accurate analysis of functional connectivi
 These subjects exhibited good-quality physiological recordings for all four runs of the resting-state scan as determined by visual inspection. Physiological variables considered in the selection process included cardiac pulsation timings, heart rate, breathing rate (BR), respiration volume per time (RVT), and respiratory flow (RF). The quality control performed for selecting these subjects has been presented in previous works (Kassinopoulos & Mitsis, 2019; Xifra-Porxas et al., 2021).
 
 **Code for the reproducing the paper**
-[GitHub-repository of the dFC toolbox](https://github.com/neurodatascience/dFC)
+[HCP resting-state analysis](https://github.com/neurodatascience/dFC/tree/main/HCP_resting_state_analysis)
+
+**GitHub-repository of the PydFC toolbox**
+[PydFC toolbox](https://github.com/neurodatascience/dFC)
 
 
 
