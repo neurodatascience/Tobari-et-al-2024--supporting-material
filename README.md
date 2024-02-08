@@ -58,4 +58,4 @@ https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms
 
 
 ## License
-Supporting material for the Tobari-et-al-GigaScience-2024 © 2024 by Jean-Baptiste Poline is licensed under CC BY 4.0 Supporting material for the Tobari-et-al-GigaScience-2024 © 2024 by Jean-Baptiste Poline is licensed under CC BY 4.0 
+Supporting material for the Tobari-et-al-GigaScience-2024 © 2024 by Jean-Baptiste Poline is licensed under CC BY 4.0 
