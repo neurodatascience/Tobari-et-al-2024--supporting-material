@@ -49,7 +49,10 @@ https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms
 ## Keywords:
 
 - neuroimaging reproducibility 
+
 - analytical flexibility
+
 - functional magnetic resonance imaging
+
 - dynamic functional connectivity
 
