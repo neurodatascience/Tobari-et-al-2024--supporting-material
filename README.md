@@ -22,7 +22,7 @@ They also emphasize the importance of distinguishing neural-driven dFC variation
 
 ## Suporting Material
 
-**list of HCP subjects included**  
+**List of HCP subjects included**  
 Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
 This repository provides [a list of 395 subject identifiers](https://github.com/neurodatascience/Tobari-et-al-2024--supporting-material/blob/da4ec3243a662af319fb3b3bd7b35690f80fdd59/HCP_subj_list.txt) for the subset of subjects from the S1200 release of the 3T Human Connectome Project (HCP) dataset
