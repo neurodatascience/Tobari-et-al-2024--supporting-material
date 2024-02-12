@@ -60,7 +60,3 @@ https://www.humanconnectome.org/study/hcp-young-adult/data-use-terms
 - functional magnetic resonance imaging
 
 - dynamic functional connectivity
-
-
-## License
-This repository Tobari-et-al-2024--supporting-material © 2024 by Jean-Baptiste Poline is licensed under CC BY 4.0
