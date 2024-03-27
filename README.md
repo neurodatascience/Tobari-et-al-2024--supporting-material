@@ -1,4 +1,4 @@
-# Supporting data for “On the variability of dynamic functional connectivity assessment methods, Tobari et al., GigaScience 2024”
+# Supporting data for “On the variability of dynamic functional connectivity assessment methods, Torabi et al., GigaScience 2024”
 
 ## Authors
 Kassinopoulos M; Xifra-Porxas A; Torabi M; Poline JB; Mitsis GD (2024)
@@ -6,12 +6,12 @@ Kassinopoulos M; Xifra-Porxas A; Torabi M; Poline JB; Mitsis GD (2024)
 ## DOI: http://dx.doi.org/10.5524/102489
 
 ## Purpose of this repository
-This repository is a gateway for the material (code and data) needed to reproduce the publication by Tobari, Mitsic and Poline in GigaScience 2024. The dataset used for this article has been prepared by Kassinopoulos M; Xifra-Porxas A; Torabi M; Poline JB; Mitsis GD. See "Supporting Material" below. 
+This repository is a gateway for the material (code and data) needed to reproduce the publication by Torabi, Mitsis and Poline in GigaScience 2024. The dataset used for this article has been prepared by Kassinopoulos M; Xifra-Porxas A; Torabi M; Poline JB; Mitsis GD. See "Supporting Material" below. 
 
 ## Description
 Dynamic functional connectivity (dFC) has become an important measure for understanding brain function and as a potential biomarker. 
 However, various methodologies have been developed for assessing dFC, and it is unclear how the choice of method affects the results. 
-In this Tobari et al., 2024, we aimed to study the results variability of commonly-used dFC methods. 
+In this Torabi et al., 2024, we aimed to study the results variability of commonly-used dFC methods. 
 We implemented seven dFC assessment methods in Python and used them to analyze fMRI data of 395 subjects from the Human Connectome Project. 
 We measured the pairwise similarity of dFC results using several similarity metrics in terms of overall, temporal, spatial, and inter-subject similarity. 
 Our results showed a range of weak to strong similarity between the results of different methods, indicating considerable overall variability. 
